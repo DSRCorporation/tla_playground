@@ -1,2 +1,2 @@
 # tla_playground
-Learning and experimenting with TLA
+Learning and experimenting with TLA toy models
